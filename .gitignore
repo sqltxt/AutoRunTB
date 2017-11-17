@@ -3,3 +3,18 @@
 
 # Packaging
 .cask
+
+# Executables
+*.exe
+*.out
+*.app
+
+#Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.spec
+dist
+build
+__pycache__
